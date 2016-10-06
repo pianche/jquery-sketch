@@ -1,0 +1,35 @@
+#reset {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 20px;
+}
+
+.ball {
+  margin: 2px 2px 0px 2px;
+  display: inline-block;
+   background-color:#505f77;
+  height: 50px;
+  width: 50px;
+  
+}
+
+.change {
+   margin: 2px 2px 0px 2px;
+  display: inline-block;
+   background-color:#ccd5e5;
+  height: 50px;
+  width: 50px;
+}
+
+#container {
+  margin: 0 auto;
+  padding:2px;
+  height: 895px;
+  width: 865px;
+  z-index:0;
+  background-color: none;
+  overflow: scroll;
+ 
+  
+}
